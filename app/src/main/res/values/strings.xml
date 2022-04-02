@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turbo Translator</string>
+    <string name="welcome">Welcome to Turbo Translator</string>
+    <string name="please_select_your_language">Please Select Your Language…</string>
+    <string name="welcome_dear">Welcome dear !</string>
+    <string name="enter_your_text">Enter Your Text</string>
+    <string name="translate">Translate</string>
+    <string name="please_select_language_you_wish_to_convert_your_text">Please Select Language, You wish to Convert Your Text .</string>
+
+
+</resources>
